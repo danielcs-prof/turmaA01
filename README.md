@@ -1,3 +1,6 @@
 # Meu primeiro repositorio GitHub
 
 - Daniel Correa da Silva
+- DANIEL CORREA DA SILVA
+- MIGUEL CORREA DA SILVA
+- MONICA JOSE DA SILVA
